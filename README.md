@@ -6,3 +6,7 @@ https://youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh
 
 ### Live-Demo
 https://mHe4am.github.io/Dashboard-Template-Four/
+
+## TODO
+- [ ] Make the app interactive using JS
+- [ ] Implement a backend
