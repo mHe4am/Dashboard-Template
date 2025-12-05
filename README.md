@@ -1,4 +1,4 @@
-# Dashboard-Template-Four
+# Dashboard-Template
 ## Dashboard template with HTML&CSS only
 
 This template is a practical application of "HTML And CSS Template 4" playlist: 
